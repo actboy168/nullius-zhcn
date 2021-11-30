@@ -77,7 +77,7 @@ end
 cn = normalize(cn)
 
 for _, name in ipairs {"entity", "fluid", "informatron", "item", "misc", "recipe", "tech"} do
-    local t = read_ini("locale/en/"..name..".cfg")
+    local t = read_ini("nullius-en/"..name..".cfg")
     translation(t, cn)
     write_ini("locale/zh-CN/"..name..".cfg", t)
 end
