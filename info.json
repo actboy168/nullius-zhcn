@@ -1,8 +1,8 @@
 {
     "name": "nullius-zhcn",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "factorio_version": "1.1",
-    "title": "Chinese translation for Nullius",
+    "title": "Nullius - Chinese translation",
     "author": "actboy168",
     "description": "This MOD provides Chinese translation to Nullius overhaul MOD",
     "dependencies": [
