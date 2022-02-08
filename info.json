@@ -1,11 +1,11 @@
 {
     "name": "nullius-zhcn",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "factorio_version": "1.1",
     "title": "Nullius - Chinese translation",
     "author": "actboy168",
     "description": "Nullius 中文翻译",
     "dependencies": [
-        "nullius >= 1.2.14"
+        "nullius >= 1.2.15"
     ]
 }
