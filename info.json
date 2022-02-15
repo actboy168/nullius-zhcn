@@ -6,6 +6,6 @@
     "author": "actboy168",
     "description": "Nullius 中文翻译",
     "dependencies": [
-        "nullius >= 1.2.15"
+        "nullius >= 1.3.0"
     ]
 }
